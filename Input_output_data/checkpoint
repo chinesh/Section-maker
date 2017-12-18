@@ -1,0 +1,2 @@
+model_checkpoint_path: "section2.ckpt"
+all_model_checkpoint_paths: "section2.ckpt"
